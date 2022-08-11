@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  SwiftUI Transitions
-//
-//  Created by Daniel Tull on 11/08/2022.
-//
 
 import SwiftUI
 
