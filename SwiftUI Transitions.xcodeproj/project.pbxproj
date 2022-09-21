@@ -11,6 +11,7 @@
 		6B73101728A50F970095FA3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B73101628A50F970095FA3D /* ContentView.swift */; };
 		6B73101928A50F980095FA3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B73101828A50F980095FA3D /* Assets.xcassets */; };
 		6B73101C28A50F980095FA3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B73101B28A50F980095FA3D /* Preview Assets.xcassets */; };
+		6B73102328A511E30095FA3D /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B73102228A511E30095FA3D /* Transition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6B73101628A50F970095FA3D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6B73101828A50F980095FA3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B73101B28A50F980095FA3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6B73102228A511E30095FA3D /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6B73101428A50F970095FA3D /* TransitionsApp.swift */,
 				6B73101628A50F970095FA3D /* ContentView.swift */,
+				6B73102228A511E30095FA3D /* Transition.swift */,
 				6B73101828A50F980095FA3D /* Assets.xcassets */,
 				6B73101A28A50F980095FA3D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B73102328A511E30095FA3D /* Transition.swift in Sources */,
 				6B73101728A50F970095FA3D /* ContentView.swift in Sources */,
 				6B73101528A50F970095FA3D /* TransitionsApp.swift in Sources */,
 			);
